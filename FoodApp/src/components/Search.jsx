@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import Styles from "./Search.module.css"
 
 const URL = "https://api.spoonacular.com/recipes/complexSearch";
-const API_KEY = "cf95a3d61faa4dee88860a14161fc55f";
+const API_KEY = "Your Key";
 // const API_KEY1 = "rXFkKJcZtXIMEaUlMKmKYsyCA4bFbXtEi5q49pK4"
 // const URL1 = ""
 
